@@ -1,0 +1,2 @@
+# StockMindAI
+StockMind AI
